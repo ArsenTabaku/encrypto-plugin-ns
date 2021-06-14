@@ -1,6 +1,6 @@
 {
   "name": "local-file-encrypto",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Add a plugin description",
   "main": "index",
   "typings": "index.d.ts",
